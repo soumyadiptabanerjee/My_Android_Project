@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Phone Shopping</string>
+    <string name="iphone">iPhone</string>
+    <string name="samsung">Samsung</string>
+    <string name="google">Google</string>
+    <string name="huawei">Huawei</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="shop_button_text">SHOP</string>
+
+    //card type
+    <string-array name="cardType">
+    <item>Visa</item>
+    <item>Master Card</item>
+    <item>American Express</item>
+    </string-array>
+
+    //city recommendation
+    <string-array name="cities">
+        <item>Toronto</item>
+        <item>London</item>
+        <item>Scarborough</item>
+        <item>Mississauga</item>
+        <item>Brampton</item>
+        <item>Markham</item>
+        <item>Oakville</item>
+        <item>New Market</item>
+        <item>Pickering</item>
+        <item>Ajax</item>
+        <item>Chatham</item>
+        <item>Windsor</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
